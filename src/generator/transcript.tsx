@@ -60,8 +60,8 @@ export default async function DiscordMessages({ messages, channel, callbacks, ..
         {options.poweredBy ? (
           <span style={{ textAlign: 'center' }}>
             Powered by{' '}
-            <a href="https://discord.gg/Zenithboost" style={{ color: 'lightblue' }}>
-              discord-html-transcripts
+            <a href="https://discord.gg/Zenithboost" style={{ color: 'purple' }}>
+              ZENITHBOOST 
             </a>
             .
           </span>
